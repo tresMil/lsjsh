@@ -1,0 +1,64 @@
+#EXTINF:-1,Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1,TELEMUNDO 51 MIAMI
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+
+#EXTINF:-1,Universal Channel
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+
+#EXTINF:-1,espa
+http://diamondhttps.dnsfor.me:15800/get.php?username=me&password=me&type=m3u
+
+#EXTINF:-1,UK | animal planet
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/760.ts
+#EXTINF:-1,UK | Disney Channel HD
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/775.ts
+#EXTINF:-1,ICKOLEDON HD
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/772.ts
+#EXTINF:-1,CHOU
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/764.ts
+#EXTINF:-1,SKY HD
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/768.ts
+#EXTINF:-1,ANTIQUE
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/767.ts
+#EXTINF:-1,GOLD HD
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/766.ts
+#EXTINF:-1,PELICULA
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/769.ts
+#EXTINF:-1,NATGEO WILD
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/761.ts
+#EXTINF:-1,NACIONAL GEOGRA
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/762.ts
+#EXTINF:-1,DABE HD
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/765.ts
+
+#EXTINF:-1,UK | National Geographic
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/762.ts
+
+#EXTINF:-1,UK | FOX
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6633.ts
+#EXTINF:-1,EXTRA CHOU
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6631.ts
+#EXTINF:-1,UK | Crime and Investigation
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6200.ts
+#EXTINF:-1,NEW E
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6201.ts
+#EXTINF:-1,BEIN SPOR
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6204.ts
+#EXTINF:-1,PICK PELI
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6632.ts
+#EXTINF:-1,UNIBERSAL CANAL
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6634.ts
+#EXTINF:-1,CANAL W
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6635.ts
+#EXTINF:-1,SI FI
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6636.ts
+#EXTINF:-1,SKY CUSTOMERS
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6637.ts
+#EXTINF:-1,ITV BE
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6638.ts
+#EXTINF:-1,CINE MAX
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/6639.ts
+#EXTINF:-1,AEROPUERTO
+http://premium-encore.uk.to:2052/live/1kKWyZyn5S/J635xgyAUG/768.ts
